@@ -1,0 +1,78 @@
+Year,LocationAbbr,LocationDesc,Question,Category,StratificationCategory1,Stratification1,StratificationCategory2,Stratification2,Response,DataValueType,Data_Value,Data_Value_Footnote_Symbol,Data_Value_Footnote,Low_Confidence_Limit,High_Confidence_Limit,WeightedNumber,FootnoteText,Url,FootnoteType
+2017,US,"United States, DC & Territories",Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),10.3,,,10.1,10.6,18291125,,,
+2017,AL,Alabama,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),11.6,,,10.2,13.1,272229,,,
+2017,AK,Alaska,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),9.5,,,7.8,11.5,40676,,,
+2017,AZ,Arizona,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),11.3,,,10.5,12.2,415914,,,
+2017,AR,Arkansas,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),11.6,,,9.3,14.4,161618,,,
+2017,CA,California,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),9.6,,,8.6,10.6,2107277,,,
+2017,CO,Colorado,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),10.4,,,9.5,11.4,329468,,,
+2017,CT,Connecticut,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),8.3,,,7.4,9.4,168221,,,
+2017,DE,Delaware,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),9.4,,,7.8,11.2,44652,,,
+2017,DC,District of Columbia,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),7.9,,,6.6,9.4,36062,,,
+2017,FL,Florida,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),12.8,,,11.6,14.2,1356853,,,
+2017,GA,Georgia,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),12.2,,,10.9,13.6,673315,,,
+2017,HI,Hawaii,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),6,,,5.2,7,49708,,,
+2017,ID,Idaho,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),10.6,,,9.2,12.2,99899,,,
+2017,IL,Illinois,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),8.9,,,7.8,10.2,653231,,,
+2017,IN,Indiana,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),9.4,,,8.5,10.3,331275,,,
+2017,IA,Iowa,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),6.6,,,5.8,7.4,114397,,,
+2017,KS,Kansas,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),8.7,,,8.1,9.4,134008,,,
+2017,KY,Kentucky,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),7.9,,,6.7,9.3,170132,,,
+2017,LA,Louisiana,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),12.2,,,10.6,13.9,278686,,,
+2017,ME,Maine,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),10.2,,,8.9,11.7,73902,,,
+2017,MD,Maryland,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),7.6,,,6.6,8.6,258154,,,
+2017,MA,Massachusetts,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),7.3,,,6.2,8.7,286282,,,
+2017,MI,Michigan,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),7.9,,,7.1,8.8,408949,,,
+2017,MN,Minnesota,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),7.6,,,7,8.3,240605,,,
+2017,MS,Mississippi,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),11.9,,,10.1,13.9,164567,,,
+2017,MO,Missouri,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),9.7,,,8.5,11.1,304884,,,
+2017,MT,Montana,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),8.8,,,7.6,10.3,49597,,,
+2017,NE,Nebraska,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),9.2,,,8.3,10.2,99589,,,
+2017,NV,Nevada,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),13.4,,,11.5,15.7,220203,,,
+2017,NH,New Hampshire,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),7,,,5.7,8.5,50989,,,
+2017,NJ,New Jersey,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),10.1,,,8.9,11.4,493816,,,
+2017,NM,New Mexico,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),9.8,,,8.5,11.2,102259,,,
+2017,NY,New York,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),9.7,,,8.8,10.6,1070023,,,
+2017,NC,North Carolina,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),12.3,,,10.8,13.9,679035,,,
+2017,ND,North Dakota,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),5.1,,,4.3,6.1,23245,,,
+2017,OH,Ohio,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),8.9,,,7.9,10,544200,,,
+2017,OK,Oklahoma,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),11.8,,,10.5,13.2,222351,,,
+2017,OR,Oregon,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),10.5,,,9.2,11.9,234113,,,
+2017,PA,Pennsylvania,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),9,,,7.9,10.2,632877,,,
+2017,RI,Rhode Island,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),10.5,,,8.8,12.3,59503,,,
+2017,SC,South Carolina,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),12.1,,,11,13.3,324332,,,
+2017,SD,South Dakota,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),7.4,,,5.9,9.1,35419,,,
+2017,TN,Tennessee,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),10.2,,,8.8,11.8,347347,,,
+2017,TX,Texas,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),15,,,13.5,16.8,2298825,,,
+2017,UT,Utah,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),9.8,,,9,10.6,170572,,,
+2017,VT,Vermont,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),6.8,,,5.8,7.9,23473,,,
+2017,VA,Virginia,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),10.5,,,9.4,11.7,503848,,,
+2017,WA,Washington,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),8.7,,,7.9,9.5,355609,,,
+2017,WV,West Virginia,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),10.4,,,9,12,84651,,,
+2017,WI,Wisconsin,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),8.6,,,7.3,10,276138,,,
+2017,WY,Wyoming,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),11.2,,,9.8,12.8,35827,,,
+2017,GU,Guam,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),15,,,12.4,18,11568,,,
+2017,PR,Puerto Rico,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),9.9,,,8.5,11.5,166752,,,
+2017,HHS1,HHS Region 1,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),8,,,7.3,8.7,662369,,,
+2017,HHS2,HHS Region 2,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),9.8,,,9.2,10.5,1730591,,,
+2017,HHS3,HHS Region 3,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),9.2,,,8.6,9.8,1560244,,,
+2017,HHS4,HHS Region 4,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),11.9,,,11.3,12.4,3987810,,,
+2017,HHS5,HHS Region 5,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),8.6,,,8.2,9.1,2454398,,,
+2017,HHS6,HHS Region 6,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),14,,,12.9,15.2,3063739,,,
+2017,HHS7,HHS Region 7,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),8.7,,,8.1,9.3,652878,,,
+2017,HHS8,HHS Region 8,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),9.6,,,9.1,10.1,644128,,,
+2017,HHS9,HHS Region 9,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),9.9,,,9.2,10.7,2804671,,,
+2017,HHS10,HHS Region 10,Could Not See a Doctor Due to Cost in Past 12 Months,Barriers & Costs of Health Care,Disability Status,No Disability,,,Yes,Age-adjusted Prevalence (%),9.5,,,8.9,10.1,730298,,,
+,,,,,,,,,,,,,,,,,Missing bars in the chart view indicate data are suppressed or not reported. Missing locations or footnoted cells in the table view indicate data are suppressed or not reported.,,GlobalNote
+,,,,,,,,,,,,,,,,,Indicator Definition,https://www.cdc.gov/ncbddd/disabilityandhealth/dhds/data-guide/health-topics-barriers.html#cost,IndicatorDefinition
+,,,,,,,,,,,,,,,,,Prevalence — The measured or estimated percentage of people – weighted to population characteristics – with an attribute or condition during a given year.,,MeasureDefinitions
+,,,,,,,,,,,,,,,,,Age-Adjusted Prevalence — Prevalence (see above) standardized to the age distribution of the U.S. 2000 standard population.,,MeasureDefinitions
+,,,,,,,,,,,,,,,,,"95% CI (95% confidence interval) — A range of values surrounding the prevalence that represents statistical reliability, shown as (Low Confidence Limit – High Confidence Limit).",,MeasureDefinitions
+,,,,,,,,,,,,,,,,,Weighted number (Weighted no.) — The measured or estimated number of people – weighted to population characteristics – who had an attribute or condition during a given year.,,MeasureDefinitions
+,,,,,,,,,,,,,,,,,Data Guide,https://www.cdc.gov/Ncbddd/disabilityandhealth/dhds/data-guide/index.html,RelatedLinks
+,,,,,,,,,,,,,,,,,Methods,https://www.cdc.gov/Ncbddd/disabilityandhealth/dhds/methods.html,RelatedLinks
+,,,,,,,,,,,,,,,,,Getting Started Guide,https://www.cdc.gov/Ncbddd/disabilityandhealth/dhds/getting-started.html,RelatedLinks
+,,,,,,,,,,,,,,,,,FAQs,https://www.cdc.gov/Ncbddd/disabilityandhealth/dhds/faqs.html,RelatedLinks
+,,,,,,,,,,,,,,,,,Additional Resources,https://www.cdc.gov/Ncbddd/disabilityandhealth/dhds/additional-resources.html,RelatedLinks
+,,,,,,,,,,,,,,,,,References,https://www.cdc.gov/Ncbddd/disabilityandhealth/dhds/references.html,RelatedLinks
+,,,,,,,,,,,,,,,,,"Centers for Disease Control and Prevention, National Center on Birth Defects and Developmental Disabilities, Division of Human Development and Disability. Disability and Health Data System (DHDS) Data [online]. [accessed Mar 13, 2023]",https://dhds.cdc.gov,SuggestedCitation

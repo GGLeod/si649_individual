@@ -1,0 +1,49 @@
+Condition,Disability,Rate,Age
+Heart Disease,yes,10.3,All
+Heart Disease,yes,3.7,18~44
+Heart Disease,yes,14.5,45~64
+Heart Disease,yes,23.7,64~
+Heart Disease,No,3.7,All
+Heart Disease,No,0.9,18~44
+Heart Disease,No,4.1,45~64
+Heart Disease,No,12,64~
+Smoking,yes,24.4,All
+Smoking,yes,27,18~44
+Smoking,yes,27.9,45~64
+Smoking,yes,10.4,64~
+Smoking,No,11.7,All
+Smoking,No,12.3,18~44
+Smoking,No,12.8,45~64
+Smoking,No,7.7,64~
+Obesity,yes,40.5,All
+Obesity,yes,38.2,18~44
+Obesity,yes,47.0,45~64
+Obesity,yes,35.8,64~
+Obesity,No,28.9,All
+Obesity,No,27.6,18~44
+Obesity,No,33.7,45~64
+Obesity,No,24.6,64~
+Diabetes,yes,16.2,All
+Diabetes,yes,6.0,18~44
+Diabetes,yes,25.9,45~64
+Diabetes,yes,30.7,64~
+Diabetes,No,7.5,All
+Diabetes,No,2.6,18~44
+Diabetes,No,10.5,45~64
+Diabetes,No,17.4,64~
+High Blood Pressure,yes,40.5,All
+High Blood Pressure,yes,22.9,18~44
+High Blood Pressure,yes,55.8,45~64
+High Blood Pressure,yes,68.3,64~
+High Blood Pressure,No,25.9,All
+High Blood Pressure,No,12.2,18~44
+High Blood Pressure,No,34.4,45~64
+High Blood Pressure,No,54.1,64~
+Cancer,yes,9.0,All
+Cancer,yes,4.1,18~44
+Cancer,yes,11.4,45~64
+Cancer,yes,20.2,64~
+Cancer,No,5.3,All
+Cancer,No,1.3,18~44
+Cancer,No,5.9,45~64
+Cancer,No,16.3,64~
